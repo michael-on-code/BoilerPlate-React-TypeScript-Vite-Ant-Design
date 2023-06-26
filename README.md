@@ -3,7 +3,7 @@ React 18 + TypeScript + Vite + Ant Design BoilerPlate
 
 A functional React v18 + TypeScript + Vite + Ant Design BoilerPlate for fast-starting React Web App Projects.
 
-Sample of LocalStorage Content Store + App Context code is made available and can be used for authentification purpose and sending data accross components.
+Sample of LocalStorage Content Store + App Context code is made available and can be used for authentication purpose and sending data accross components.
 
 Dependencies
 ------------
