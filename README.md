@@ -47,6 +47,7 @@ import LogoImg from '~/assets/react.svg'
 * Rename .env.example file to .env and use accordingly.
 
 Enjoy !
-[1]: https://react.dev/reference/react
-[2]: https://ant.design/docs/react/introduce
 
+[1]: https://react.dev/reference/react
+
+[2]: https://ant.design/docs/react/introduce
