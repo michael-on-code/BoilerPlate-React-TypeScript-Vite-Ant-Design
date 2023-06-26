@@ -1,0 +1,4 @@
+export const LOGIN_ACTION = 'LOGIN_ACTION';
+export const LOGOUT_ACTION = 'LOGOUT_ACTION';
+export const SET_INIT_DATA = 'SET_INIT_DATA';
+export const SYNC_REQUEST = 'SYNC_REQUEST';
