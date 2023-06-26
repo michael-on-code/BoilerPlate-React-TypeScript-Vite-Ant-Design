@@ -22,9 +22,7 @@ Installation
 Install the necessary dependencies by running this 
 
 ```bash
-{
-   $ npm install
-}
+$ npm install
 ```
 
 Starting
@@ -33,9 +31,7 @@ Starting
 Instant Server Starting with Vite 
 
 ```bash
-{
-   $ npm run dev
-}
+$ npm run dev
 ```
 
 Usage
@@ -46,9 +42,7 @@ Usage
 * Accessing absolute paths from src should be used with the (~) like this example 👇
 
 ```bash
-{
-   import LogoImg from '~/assets/react.svg'
-}
+import LogoImg from '~/assets/react.svg'
 ```
 * Rename .env.example file to .env and use accordingly.
 
